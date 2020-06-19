@@ -1,7 +1,7 @@
 # Face-Depixelizer
 Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository. 
 
-![example](transformation.gif)
+![example](https://github.com/tg-bomze/Face-Depixelizer/raw/master/transformation.gif)
 
 Given a low-resolution input image, Face Depixelizer searches the outputs of a generative model (here, [StyleGAN](https://github.com/NVlabs/stylegan)) for high-resolution images that are perceptually realistic and downscale correctly.
 
