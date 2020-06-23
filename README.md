@@ -3,6 +3,8 @@ We have noticed a lot of concern that PULSE will be used to identify individuals
 
 We also want to address concerns of bias in PULSE. **We have now included a new section in the [paper](https://drive.google.com/file/d/1fV7FsmunjDuRrsn4KYf2Efwp0FNBtcR4/view) and an accompanying model card directly addressing this bias.**
 
+If you are interested more about the topic, you can read this [IEEE Tech Talk about PULSE](https://spectrum.ieee.org/tech-talk/computing/software/making-blurry-faces-photorealistic-goes-only-so-far).
+
 # Face-Depixelizer
 Face Depixelizer based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models" repository. 
 
