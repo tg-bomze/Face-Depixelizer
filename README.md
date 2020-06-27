@@ -21,3 +21,5 @@ Given a low-resolution input image, Face Depixelizer searches the outputs of a g
 **Article**: [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://arxiv.org/abs/2003.03808)
 
 **Currently using Google Drive to store model weights and it has a daily cap on downloads, therefore, you may receive an error message saying "*Google Drive Quota Exceeded*" or "*No such file or directory: '/content/pulse/runs/face.png'*". If you are experiencing this error please try again later in the day or come back tomorrow.**
+
+Thanks for the help in fixing the errors: [AlrasheedA](https://github.com/AlrasheedA), [kuanhulio](https://github.com/kuanhulio), [DevMentor](t.me/DevMentor)
